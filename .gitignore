@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Literature
+
+odd_even_merge.pdf

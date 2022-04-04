@@ -82,7 +82,6 @@ V této podkapitole jsou shrnuty nejčastější chyby a prohřešky, kterých j
 
 Ne za všechny chyby vám byly hned strhnuty body, u některých jsme vám snižovali bodové hodnocení, až když jejich počet překročil hranici tolerance:
 
-
 ===Programová část (0-4 body):===
 
 Některé projekty se nám vůbec nepodařilo spustit, případně jsme pro jejich spuštění museli přepisovat testovací skripty. Je proto nutné, abyste přesně dodržovali zadání, počet parametrů při spuštění programu, význam těchto parametrů a způsob komprimace. Projekty musí fungovat minimálně na školním serveru merlin.
@@ -95,7 +94,6 @@ Testovali jsme s následujícími parametry:
  <code>testik "$test" 6 15</code>
  <code>testik "$test" 8 15</code>
  <code>testik "$test" 2 3</code>
-
 
 ===Dokumentace (0-4 body):===
 
@@ -124,8 +122,6 @@ Dále byl kladen důraz na komunikační protokol a způsob testování/experime
 Do dokumentace nemusíte psát pseudokódy, ty si dohledáme v materiálech z přednášky.
 
 Za dokumentaci jste mohli získat až 4 body. Některé dokumentace však vůbec nebylo možné otevřít, či jste je neodevzdali.
-
-
 
 ===Zbytek (0-2 body):===
 
