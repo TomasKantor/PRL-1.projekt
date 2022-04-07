@@ -32,6 +32,9 @@
 *.app
 src/oems
 
+# release zip
+xkanto14.zip
+
 # Literature
 odd_even_merge.pdf
 
