@@ -30,7 +30,10 @@
 *.exe
 *.out
 *.app
+src/oems
 
 # Literature
-
 odd_even_merge.pdf
+
+# visual studio code
+.vscode/*
