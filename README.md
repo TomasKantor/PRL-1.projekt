@@ -1,3 +1,7 @@
+# Hodnocení
+
+9/10 bodů
+
 # Implementace algoritmu "Odd-Even Merge Sort"
 
 Pomocí knihovny Open MPI implementujte v jazyce C/C++ algoritmus Odd-Even Merge Sort pro řazení posloupnosti osmi čísel tak, jak byl uveden na přednášce PRL.
